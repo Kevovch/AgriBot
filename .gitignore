@@ -1,11 +1,8 @@
-# Ignorar la carpeta dist
-dist/
+
 
 # Ignorar archivos .zip
 *.zip
 
 # Ignorar archivos .pkg
 *.pkg
-*.pkg
-dist/
 *.DS_Store
