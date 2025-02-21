@@ -1,0 +1,6 @@
+*.app filter=lfs diff=lfs merge=lfs -text
+*.pkg filter=lfs diff=lfs merge=lfs -text
+build/chatbot2/chatbot2.pkg filter=lfs diff=lfs merge=lfs -text
+dist/chatbot2 filter=lfs diff=lfs merge=lfs -text
+dist/chatbot2.app/Contents/MacOS/chatbot2 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text

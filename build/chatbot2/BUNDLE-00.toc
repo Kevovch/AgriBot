@@ -1,0 +1,3 @@
+([('chatbot2',
+   '/Users/imac/Documents/Proyecto IA/dist/chatbot2',
+   'EXECUTABLE')],)
